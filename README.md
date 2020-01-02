@@ -1,2 +1,2 @@
-# Python-for-everybody-coursera
+# Python-For-Everybody-Coursera
 Coursera exercise 
